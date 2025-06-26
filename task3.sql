@@ -52,3 +52,6 @@ select empno,ename,job,deptno,sal from emp order by deptno desc,sal desc;
 select * from emp where rownum < 4 order by sal desc ;
 select empno,ename,job,sal from emp where rownum<3 order by deptno;
 select empno,ename,job,sal from emp where rownum<5;
+------limit
+select * from emp ORDER BY sal DESC LIMIT 3;
+Select * FROM emp WHERE deptno = 10 ORDER BY sal DESC LIMIT 2;
