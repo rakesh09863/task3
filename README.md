@@ -6,7 +6,7 @@ When we want retrieve data from various database objects using SELECT command.
 "emp" – Employee details
 "dept" – Department details
 
---SELECT Queries
+--SELECT Queries 
 "select * from table_name"
 
 --WHERE Clause
