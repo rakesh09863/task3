@@ -1,7 +1,7 @@
 # task3: writing Basic SELECT Queries
 
 When we want retrieve data from various database objects using SELECT command.
-
+ 
 --Tables Used
 "emp" – Employee details
 "dept" – Department details
